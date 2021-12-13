@@ -1,0 +1,23 @@
+{
+  "name": "binary-to-npm",
+  "version": "0.1.0-beta.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misitebao/binary-to-npm.git"
+  },
+  "keywords": [
+    "bin",
+    "bin-npm"
+  ],
+  "author": "Misitebao <i@misitebao.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misitebao/binary-to-npm/issues"
+  },
+  "homepage": "https://github.com/misitebao/binary-to-npm#readme"
+}
