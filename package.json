@@ -1,6 +1,6 @@
 {
   "name": "binary-to-npm",
-  "version": "0.1.0-beta.3",
+  "version": "0.1.0",
   "description": "Publish third-party binary packages to npm",
   "main": "",
   "bin": {
