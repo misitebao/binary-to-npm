@@ -1,8 +1,14 @@
 {
   "name": "binary-to-npm",
-  "version": "0.1.0-beta.1",
-  "description": "",
-  "main": "main.js",
+  "version": "0.1.0-beta.2",
+  "description": "Publish third-party binary packages to npm",
+  "main": "",
+  "bin": {
+    "bin-to-npm": "./bin/main.js"
+  },
+  "files": [
+    "bin"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
